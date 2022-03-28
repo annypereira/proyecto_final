@@ -1,16 +1,16 @@
-Proyecto final 
+## Proyecto final 
 Anny Pereira
 
 Pasos a seguir:
-1) Definir variables globales, necesarias para las distintas funciones y eventos 
-2) Se crean los eventos para los botones
-3) Se asigna el valor inicial de dinero (entre 10 y 15 euros)
-4) Se muestra la cantidad de dinero y monedas segun sea asignado
-5) Función tirar que vaya cambiando la imagen para las cajas correspondientes 
-6) Un bucle para cambiar las tres imagenes al mismo tiempo
-7) Comprobar si el jugador se ha quedado en "0€", muestre una notificiación conforme ha perdido  
-8) Comprobar si el jugador ha ganado para mostrar una alerta conforme obtiene un premio aleatorio
-9) Añadir sonido para cada caso (ganar, perder y lanzar)
+1. Definir variables globales, necesarias para las distintas funciones y eventos 
+2. Se crean los eventos para los botones
+3. Se asigna el valor inicial de dinero (entre 10 y 15 euros)
+4. Se muestra la cantidad de dinero y monedas segun sea asignado
+5. Función tirar que vaya cambiando la imagen para las cajas correspondientes 
+6. Un bucle para cambiar las tres imagenes al mismo tiempo
+7. Comprobar si el jugador se ha quedado en "0€", muestre una notificiación conforme ha perdido  
+8. Comprobar si el jugador ha ganado para mostrar una alerta conforme obtiene un premio aleatorio
+9. Añadir sonido para cada caso (ganar, perder y lanzar)
 
 Problemas encontrados:
 1) Que se muestre el valor en el DIV sin quitar el simbolo de € 
